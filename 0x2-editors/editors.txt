@@ -1,0 +1,6 @@
+7 - i - before cursor, a - after cursor
+8 - dd
+10 - u
+11 - :q!
+12 - 0
+13 - $
